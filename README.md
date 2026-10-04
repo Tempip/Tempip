@@ -6,7 +6,7 @@
 
 ### 🧑‍💻 About me
 
-- 🎓 Telematics Engineering student at the **Universidad Politécnica de Cartagena** (Spain)
+- 🎓 Telecommunications Engineering student at the **Universidad Politécnica de Cartagena** (Spain)
 - 📡 Into wireless networks and **5G**, especially where they meet **reinforcement learning**
 - 🧮 I like hard **optimization** problems: vehicle routing, metaheuristics, local search
 - 🏆 Winner of the **SmartEcoRutas** challenge at Retos-UPCT 2026
