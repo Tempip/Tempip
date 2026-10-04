@@ -1,4 +1,4 @@
-<img src="banner.svg" alt="Pedro Rodrigues · Telematics Engineering at UPCT · 5G, reinforcement learning and optimization" width="100%">
+<img src="banner.svg" alt="Pedro Rodrigues · Telecommunications Engineering at UPCT · 5G, reinforcement learning and optimization" width="100%">
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pedrojrodriguess/"><img src="https://img.shields.io/badge/LinkedIn-Let%27s_connect-0A66C2?style=for-the-badge" alt="LinkedIn: let's connect"></a>
