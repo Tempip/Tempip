@@ -1,15 +1,8 @@
-<img src="banner.svg" alt="Pedro Rodrigues · Telecommunications Engineering at UPCT · 5G, reinforcement learning and optimization" width="100%">
+<img src="banner.svg" alt="Pedro Rodrigues · Telecommunications Engineering" width="100%">
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pedrojrodriguess/"><img src="https://img.shields.io/badge/LinkedIn-Let%27s_connect-0A66C2?style=for-the-badge" alt="LinkedIn: let's connect"></a>
 </p>
-
-### 🧑‍💻 About me
-
-- 🎓 Telecommunications Engineering student at the **Universidad Politécnica de Cartagena** (Spain)
-- 📡 Into wireless networks and **5G**, especially where they meet **reinforcement learning**
-- 🧮 I like hard **optimization** problems: vehicle routing, metaheuristics, local search
-- 🏆 Winner of the **SmartEcoRutas** challenge at Retos-UPCT 2026
 
 ### 🛠️ Tech I work with
 
